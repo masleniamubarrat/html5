@@ -1,0 +1,45 @@
+.box{
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid palegoldenrod;
+    overflow: ;
+    
+}
+
+.box2{
+    border: 4px solid peru;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.bx{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-bottom: 5px;
+}
+.outer{
+    background-color: grey;
+}
+.inner{
+    background-color: pink;
+    transform: rotate(30deg) scale(.5);
+}
+.transbx{
+    width: 200px;
+    height: 300px;
+    border: 5px solid cyan;
+    background-color: darkcyan;
+    transition: width 3s ease-in;
+    transition: ease-in-out;
+}
+.transbx:hover{
+    background-color: purple;
+    width: 500px;
+    anima
+
+    
+   
+}
